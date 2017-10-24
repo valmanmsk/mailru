@@ -1,0 +1,34 @@
+[10-23 18:39:49,410, 628] example.Main Starting at http://127.0.0.1:8080
+[10-23 18:39:49,740, 958] example.Main Server started
+[10-23 18:40:04,970, 16188] servlets.HomePageServlet Limit: 1. Count 0
+[10-23 18:40:04,970, 16188] servlets.HomePageServlet User pass
+[10-23 18:46:32,914, 404132] servlets.HomePageServlet Limit: 1. Count 1
+[10-23 18:46:32,915, 404133] servlets.HomePageServlet User were rejected
+[10-23 18:46:33,939, 405157] servlets.HomePageServlet Limit: 1. Count 1
+[10-23 18:46:33,940, 405158] servlets.HomePageServlet User were rejected
+[10-23 18:46:34,880, 406098] servlets.HomePageServlet Limit: 1. Count 1
+[10-23 18:46:34,880, 406098] servlets.HomePageServlet User were rejected
+[10-23 18:46:40,962, 412180] servlets.HomePageServlet Limit: 1. Count 1
+[10-23 18:46:40,962, 412180] servlets.HomePageServlet User were rejected
+[10-23 18:46:51,993, 423211] servlets.HomePageServlet Limit: 10. Count 1
+[10-23 18:46:51,993, 423211] servlets.HomePageServlet User pass
+[10-23 18:46:52,869, 424087] servlets.HomePageServlet Limit: 10. Count 2
+[10-23 18:46:52,869, 424087] servlets.HomePageServlet User pass
+[10-23 18:46:53,454, 424672] servlets.HomePageServlet Limit: 10. Count 3
+[10-23 18:46:53,454, 424672] servlets.HomePageServlet User pass
+[10-23 18:46:54,057, 425275] servlets.HomePageServlet Limit: 10. Count 4
+[10-23 18:46:54,057, 425275] servlets.HomePageServlet User pass
+[10-23 18:46:54,437, 425655] servlets.HomePageServlet Limit: 10. Count 5
+[10-23 18:46:54,437, 425655] servlets.HomePageServlet User pass
+[10-23 18:46:55,091, 426309] servlets.HomePageServlet Limit: 10. Count 6
+[10-23 18:46:55,091, 426309] servlets.HomePageServlet User pass
+[10-23 18:47:00,751, 431969] servlets.HomePageServlet Limit: 10. Count 7
+[10-23 18:47:00,751, 431969] servlets.HomePageServlet User pass
+[10-23 18:47:01,416, 432634] servlets.HomePageServlet Limit: 10. Count 8
+[10-23 18:47:01,416, 432634] servlets.HomePageServlet User pass
+[10-23 18:47:02,115, 433333] servlets.HomePageServlet Limit: 10. Count 9
+[10-23 18:47:02,115, 433333] servlets.HomePageServlet User pass
+[10-23 18:47:02,697, 433915] servlets.HomePageServlet Limit: 10. Count 10
+[10-23 18:47:02,697, 433915] servlets.HomePageServlet User were rejected
+[10-23 18:47:07,557, 438775] servlets.HomePageServlet Limit: 10. Count 10
+[10-23 18:47:07,557, 438775] servlets.HomePageServlet User were rejected
